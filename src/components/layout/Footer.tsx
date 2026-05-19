@@ -54,7 +54,7 @@ export function Footer() {
 
       <div className="border-t border-slate-800 pt-6">
         <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-500">
-          <p>© 2026 MyOffers. All Rights Reserved. Part 1 - Web Systems Project.</p>
+          <p>© 2024 MyOffers. All Rights Reserved. Part 1 - Web Systems Project.</p>
           <p>College of Computers and Information Technology | Taif University</p>
         </div>
       </div>
