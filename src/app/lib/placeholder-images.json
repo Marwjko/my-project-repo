@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "food-deal-1",
+      "description": "Delicious gourmet burger set",
+      "imageUrl": "https://picsum.photos/seed/food1/600/400",
+      "imageHint": "gourmet burger"
+    },
+    {
+      "id": "food-deal-2",
+      "description": "Italian pasta dinner",
+      "imageUrl": "https://picsum.photos/seed/food2/600/400",
+      "imageHint": "italian pasta"
+    },
+    {
+      "id": "auto-deal-1",
+      "description": "Professional car wash and detailing",
+      "imageUrl": "https://picsum.photos/seed/auto1/600/400",
+      "imageHint": "car detailing"
+    },
+    {
+      "id": "auto-deal-2",
+      "description": "Tire rotation and alignment service",
+      "imageUrl": "https://picsum.photos/seed/auto2/600/400",
+      "imageHint": "car service"
+    },
+    {
+      "id": "home-deal-1",
+      "description": "Smart home security camera",
+      "imageUrl": "https://picsum.photos/seed/home1/600/400",
+      "imageHint": "security camera"
+    },
+    {
+      "id": "home-deal-2",
+      "description": "Modern living room furniture set",
+      "imageUrl": "https://picsum.photos/seed/home2/600/400",
+      "imageHint": "living room"
+    },
+    {
+      "id": "logo",
+      "description": "MyOffers Brand Logo",
+      "imageUrl": "https://picsum.photos/seed/logo1/200/60?text=MyOffers",
+      "imageHint": "minimalist logo"
+    }
+  ]
+}
